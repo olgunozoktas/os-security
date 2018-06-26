@@ -6,10 +6,15 @@ The action of a Caesar cipher is to replace each plaintext letter with a differe
 
 https://en.wikipedia.org/wiki/Caesar_cipher can be used as reference to understand how it works.
 
+![alt text](http://i63.tinypic.com/34nslqw.png)
+
+
 # Assigment 2 - Frequency Analysis
 Frequency analysis is based on the fact that, in any given stretch of written language, certain letters and combinations of letters occur with varying frequencies. Moreover, there is a characteristic distribution of letters that is roughly the same for almost all samples of that language. For instance, given a section of English language, E, T, A and O are the most common, while Z, Q and X are rare. Likewise, TH, ER, ON, and AN are the most common pairs of letters (termed bigrams or digraphs), and SS, EE, TT, and FF are the most common repeats.[1] The nonsense phrase "ETAOIN SHRDLU" represents the 12 most frequent letters in typical English language text.
 
 https://en.wikipedia.org/wiki/Frequency_analysis can be used as reference to understand how it works.
+
+![alt text](http://i63.tinypic.com/2dufdci.png)
 
 # Assigment 3 - Prime Number Checker
 A prime number (or a prime) is a natural number greater than 1 that has no positive divisors other than 1 and itself. A natural number greater than 1 that is not a prime number is called a composite number.
